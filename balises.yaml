@@ -1,0 +1,28 @@
+# Liste des méthodes Faker disponibles :
+# - faker.name : Génère un nom complet aléatoire
+# - faker.first_name : Génère un prénom aléatoire
+# - faker.last_name : Génère un nom de famille aléatoire
+# - faker.email : Génère une adresse e-mail aléatoire
+# - faker.phone_number : Génère un numéro de téléphone aléatoire
+# - faker.address : Génère une adresse aléatoire
+# - faker.city : Génère une ville aléatoire
+# - faker.country : Génère un pays aléatoire
+# - faker.job : Génère un titre de poste aléatoire
+# - faker.company : Génère le nom d'une entreprise aléatoire
+# - faker.date_of_birth : Génère une date de naissance aléatoire
+# - faker.credit_card_number : Génère un numéro de carte de crédit aléatoire
+# - faker.credit_card_expiration_date : Génère une date d'expiration de carte de crédit aléatoire
+
+name: faker.name  # Remplacer par un nom complet aléatoire
+first_name: faker.first_name  # Remplacer par un prénom aléatoire
+last_name: faker.last_name  # Remplacer par un nom de famille aléatoire
+email: faker.email  # Remplacer par une adresse e-mail aléatoire
+phone: faker.phone_number  # Remplacer par un numéro de téléphone aléatoire
+address: faker.address  # Remplacer par une adresse aléatoire
+city: faker.city  # Remplacer par une ville aléatoire
+country: faker.country  # Remplacer par un pays aléatoire
+job_title: faker.job  # Remplacer par un titre de poste aléatoire
+company: faker.company  # Remplacer par le nom d'une entreprise aléatoire
+dob: faker.date_of_birth  # Remplacer par une date de naissance aléatoire
+credit_card: faker.credit_card_number  # Remplacer par un numéro de carte de crédit aléatoire
+cc_expiration: faker.credit_card_expiration_date  # Remplacer par une date d'expiration de carte de crédit aléatoire
